@@ -1,6 +1,6 @@
 # MongoDB-Scraper
 
-[Check out the App]("https://unch-mongo-scraper.herokuapp.com/")
+[Check out the App](https://unch-mongo-scraper.herokuapp.com/)
 
 ## How It Works
 - Scrape articles by clicking the "Scrape Articles" button.
