@@ -64,7 +64,7 @@ app.get("/", function(req, res) {
 });
 
 app.get("/scrape", function(req, res) {
-	request("https://www.studentnewsdaily.com/archive/daily-news-article/", function(error, response, html) {
+	request("https://www.nytimes.com/section/world", function(error, response, html) {
 		var $ = cheerio.load(html);
 		var result = {};
 		$("div.story-body").each(function(i, element) {
