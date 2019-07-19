@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="UTF-8">
-		<link rel="stylesheet" href="/assets/css/style.css" type="text/css" />
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-		<title>Student News Daily Scraper</title>
+	<link rel="stylesheet" href="/assets/css/style.css" type="text/css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<title>Student News Daily Scraper</title>
 </head>
 
 <body>
 	<header>
-		<a href="/"><div id="sitename">Student News Scraper</div></a>
+		<a href="/">
+			<div id="sitename">Student News Scraper</div>
+		</a>
 		<a href="/"><button id="all-articles">All Articles</button></a>
 		<a href="/saved"><button id="saved-articles">Saved Articles</button></a>
 		<form action="/scrape" method="GET">
@@ -24,7 +27,7 @@
 	<div id="container">
 		{{{ body }}}
 	</div>
-	
+
 	<script src="/assets/javascript/app.js"></script>
 
 	<div id="addnote">
@@ -41,8 +44,8 @@
 			</div>
 		</div>
 	</div>
-	
-	<footer>© Copyright Rupali Meshram</footer>
+
 	<script src="/assets/javascript/app.js"></script>
 </body>
+
 </html>
