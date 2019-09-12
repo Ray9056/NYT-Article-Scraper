@@ -1,4 +1,4 @@
-# NYT News Scraper
+# NYT Article Scraper
 
 [Check out the App](https://spatel-nyt-news-scraper.herokuapp.com/)
 
