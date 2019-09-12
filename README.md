@@ -1,4 +1,4 @@
-# MongoDB-Scraper
+# NYT News Scraper
 
 [Check out the App](https://spatel-nyt-news-scraper.herokuapp.com/)
 
