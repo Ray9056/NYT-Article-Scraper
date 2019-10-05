@@ -24,4 +24,4 @@
 
 [![Image from Gyazo](https://i.gyazo.com/13ff6d1b1fd0ae010c6fa347704269d3.gif)](https://gyazo.com/13ff6d1b1fd0ae010c6fa347704269d3)
 
-Copyright 2019 © [Suraj Patel](https://jernical.github.io/Suraj-Patel/)
+Copyright © 2019 [Suraj Patel](https://jernical.github.io/Suraj-Patel/)
