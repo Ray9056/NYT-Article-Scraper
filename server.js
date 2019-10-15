@@ -56,8 +56,7 @@ db.once("open", function () {
 });
 
 // Routes
-// ======
-
+    // ===
 //GET requests to render Handlebars pages
 app.get("/", function (req, res) {
     Article.find({
